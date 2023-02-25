@@ -32,7 +32,7 @@ I have very good knowledge of the Gradle build system to create efficient modula
 <p><strong><h3>Stats</h3></strong>
 <div class="row">
   <div class="col">
-      <img src="https://github-readme-stats.vercel.app/api?username=janbarari&show_icons=true&locale=en" />
+      <img src="https://github-readme-stats.vercel.app/api?username=davidsimon0205&show_icons=true&locale=en" />
   </div>
 </div>
 
