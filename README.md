@@ -1,38 +1,46 @@
-<h1 align="left">Hey 👋, I'm David</h1>
-<p align="left">Creating scalable, maintainable android apps is always my interest. I have more than 8 years of experience in this industry, worked in various companies with different team sizes, and created many apps such as Parental Control App, Map Area Calculator App, VOD App, and Shopping App.
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Professional Full Stack Developer.</h1>
+<h3 align="left">I am a highly motivated software engineer with 8 years of experience working in teams of all sizes. I am adept at joining
+projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of
+concurrent users. In addition to my technical skills, I can also provide valuable business insight during the development
+stage.</h3>
 
-Till now I create and released many tools and libraries for developers as an open-source project.
+## ⚡ Technologies
 
-I have very good knowledge of the Gradle build system to create efficient modular structures, custom plugins, and tasks.
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Django](https://img.shields.io/badge/-Django-005571?style=flat-square&logo=django)
+![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-E10098?style=flat-square&logo=rubyonrails)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-black?style=flat-square&logo=tailwindcss)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,c,cs,cpp,java,ruby,rails,md,nginx,powershell,prisma,qt,vscode,atom,idea,androidstudio,eclipse,git,github,linux,svg,unity,vercel,heroku,aws,azure,d3,electron,firebase,nestjs" />
+  </a>
 </p>
-
-📫 Reach me via **david.simon0205@gmail.com**
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/davidsimon0205" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
-
-<br/>
-<h3 align="left">My Favorite Repositories</h3>
-<a href="https://github.com/janbarari/gradle-analytics-plugin" target="_blank"><strong>Gradle Analytics Plugin</strong> - A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format.</a>
-
-<a href="https://github.com/janbarari/android-cloud-ocr" target="_blank"><strong>Android Cloud OCR</strong> - A Lightweight tool for getting the image text content</a>
-<br/>
-<a href="https://github.com/janbarari/KEvent" target="_blank"><strong>KEvent</strong> - A brand new communication library in Android & Kotlin (similar to Eventbus)</a>
-<br/>
-  <a href="https://github.com/janbarari/GenericRecyclerView"><strong>Generic RecyclerView</strong> - A simplified easy to use a smart recyclerview and adapter to create dynamic feed</a>
-<br/>
-<a href="https://github.com/janbarari/JupiterSlider"><strong>Jupiter Slider</strong> - An awesome auto slider</a>
-
-<br/>
-<p><strong><h3>Github Visitor Count</h3></strong>
-<img src="https://profile-counter.glitch.me/janbarari/count.svg" />
-</p>
-
-<p><strong><h3>Stats</h3></strong>
-<div class="row">
-  <div class="col">
-      <img src="https://github-readme-stats.vercel.app/api?username=davidsimon0205&show_icons=true&locale=en" />
-  </div>
-</div>
-
