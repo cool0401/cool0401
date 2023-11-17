@@ -52,7 +52,7 @@ stage.</h3>
       <a href="https://t.me/jh10205">
          <img src="https://user-images.githubusercontent.com/101947194/226695828-a2a6ee49-276f-4643-9fc4-8c72222c7006.svg" height="50" />
       </a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:joshkramer530@gmail.com">
+      <a href="mailto:connectDot0118@outlook.com">
          <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://join.skype.com/invite/AIYKudQlkf19">
