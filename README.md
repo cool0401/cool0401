@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm a Web / Mobile / Blockchain / DevOps Expert.</h1>
+<h1 align="left" id="macropower-title">:wave: Senior AI & Full Stack Developer | Master of ASP.NET Core, Python, Rust</h1>
 <h3 align="left">I am a highly motivated software engineer with 8 years of experience working in teams of all sizes. I am adept at joining
 projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of
 concurrent users. In addition to my technical skills, I can also provide valuable business insight during the development
@@ -45,7 +45,7 @@ stage.</h3>
   </a>
 </p>
 
- <div align="center">
+ <!--<div align="center">
     Contact Me Here!
     </a></h2>
     <div align="center">
@@ -58,5 +58,5 @@ stage.</h3>
       <a href="https://join.skype.com/invite/AIYKudQlkf19">
          <img src='https://img.icons8.com/color/344/skype.png' height="50">
       </a>
-    </div>
+    </div> -->
  </div>
