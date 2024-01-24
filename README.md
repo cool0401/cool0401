@@ -45,18 +45,18 @@ stage.</h3>
   </a>
 </p>
 
- <!--<div align="center">
+ <div align="center">
     Contact Me Here!
     </a></h2>
     <div align="center">
-      <a href="https://t.me/jh10205">
+      <a href="https://t.me/cool0401">
          <img src="https://user-images.githubusercontent.com/101947194/226695828-a2a6ee49-276f-4643-9fc4-8c72222c7006.svg" height="50" />
       </a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:connectDot0118@outlook.com">
+      <!--<a href="mailto:connectDot0118@outlook.com">
          <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://join.skype.com/invite/AIYKudQlkf19">
          <img src='https://img.icons8.com/color/344/skype.png' height="50">
-      </a>
-    </div> -->
+      </a> -->
+    </div>
  </div>
