@@ -4,7 +4,7 @@ projects at an early stage, planning the architecture of the system, executing t
 concurrent users. In addition to my technical skills, I can also provide valuable business insight during the development
 stage.</h3>
 
-## ⚡ Technologies
+<!-- ## ⚡ Technologies -->
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
