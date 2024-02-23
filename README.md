@@ -39,11 +39,11 @@ stage.</h3>
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,c,cs,cpp,java,ruby,rails,md,nginx,powershell,prisma,qt,vscode,atom,idea,androidstudio,eclipse,git,github,linux,svg,unity,vercel,heroku,aws,azure,d3,electron,firebase,nestjs" />
   </a>
-</p>
+</p> -->
 
 <!-- <div align="center">
     Contact Me Here!
