@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: AI & Full Stack Developer | Master of ASP.NET Core, JavaScript, Python</h1>
+<h1 align="left" id="macropower-title">:wave: Blockchain & Full Stack Developer</h1>
 <h3 align="left">I am a highly motivated software engineer with 11 years of experience working in teams of all sizes. I am adept at joining
 projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of
 concurrent users. In addition to my technical skills, I can also provide valuable business insight during the development
