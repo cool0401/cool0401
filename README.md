@@ -55,7 +55,10 @@ stage.</h3>
       <a href="mailto:connectdot42@gmail.com">
          <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="50">
       </a>&nbsp;&nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/AIYKudQlkf19">
+      <!--<a href="https://join.skype.com/invite/AIYKudQlkf19">
+         <img src='https://img.icons8.com/color/344/skype.png' height="50">
+      </a> --> 
+      <a href="https://join.skype.com/invite/IeeqQbf5YZqr">
          <img src='https://img.icons8.com/color/344/skype.png' height="50">
       </a> 
     </div>
